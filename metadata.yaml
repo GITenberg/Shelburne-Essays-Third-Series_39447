@@ -1,0 +1,31 @@
+_repo: Shelburne-Essays-Third-Series_39447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Paul Elmer
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '32068'
+    url: http://www.gutenberg.org/2009/agents/32068
+description: ''
+gutenberg_issued: '2012-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'American literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: The correspondence of William Cowper -- Whittier the poet -- The
+  centenary of Sainte-Beuve -- The Scotch novels and Scotch history -- Swinburne --
+  Christina Rossetti -- Why is Browning popular? -- A note on Byron's "Don Juan" --
+  Laurence Sterne -- J. Henry Shorthouse -- The quest of a century.
+title: Shelburne Essays, Third Series
+url: http://www.gutenberg.org/ebooks/39447
